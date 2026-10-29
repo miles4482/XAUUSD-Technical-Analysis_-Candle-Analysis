@@ -1,0 +1,3 @@
+# Optional. The candle engine uses only the Python standard library.
+# Install this when you want live COMEX gold (GC=F) or another Yahoo symbol.
+yfinance>=0.2.54
